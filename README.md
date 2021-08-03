@@ -2,7 +2,7 @@
 <div style="display: inline-block">
   <a href="https://github.com/henrylimabr" />
   
-  <img align="right" width="64px" height="64px" title="Henry-Chan" alt="Henry-Chan" src="https://cdn.discordapp.com/attachments/528048761578979328/872055213282975744/anim.gif" />
+  <img align="right" width="128px" height="128px" title="Henry-Chan" alt="Henry-Chan" src="https://cdn.discordapp.com/attachments/528048761578979328/872055213282975744/anim.gif" />
   
   <img align="center" width="32px" height="32px" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" width="32px" height="32px" alt="Typescript" title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
