@@ -1,6 +1,6 @@
 ## Hi, Welcome ^^👋🏼
 <div style="display: inline-block">
-  <a href="https://github.com/henrylimabr" />
+  <a href="https://github.com/HenryLimaBR" />
   
   <img align="right" width="128px" height="128px" title="Henry-Chan" alt="Henry-Chan" src="https://cdn.discordapp.com/attachments/528048761578979328/872055213282975744/anim.gif" />
   
@@ -16,7 +16,7 @@
   </div>
 <br>
 <div>
-  <a href="https://github.com/henrylimabr" />
+  <a href="https://github.com/HenryLimaBR" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrylimabr&layout=compact&bg_color=222233&title_color=0ff&text_color=fff&icon_color=c0c&hide_border=true&border_radius=6" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrylimabr&count_private=true&show_icons=true&bg_color=222233&title_color=0ff&text_color=ccc&icon_color=c0c&hide_border=true&border_radius=6" />
 </div>
