@@ -1,7 +1,6 @@
 ## Hi, Welcome ^^👋🏼
 <div style="display: inline-block">
-  <a href="https://github.com/HenryLimaBR" 
-  
+  <a href="https://github.com/HenryLimaBR">
   <img align="center" width="32px" height="32px" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" width="32px" height="32px" alt="Typescript" title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
   <img align="center" width="32px" height="32px" alt="NodeJS" title="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
