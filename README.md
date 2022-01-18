@@ -8,7 +8,7 @@
   <img align="center" width="32px" height="32px" alt="NextJS" title="NextJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" />
   <img align="center" width="32px" height="32px" alt="ReactJS" title="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" width="32px" height="32px" alt="Redux" title="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-  <img align="center" width="32px" height="32px" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />
+  <!--<img align="center" width="32px" height="32px" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />-->
   <img align="center" width="32px" height="32px" alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" />
   <img align="center" width="32px" height="32px" alt="SASS" title="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
 </div>
