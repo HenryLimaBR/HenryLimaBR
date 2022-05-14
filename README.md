@@ -13,12 +13,12 @@
   <img align="center" width="32px" height="32px" alt="SASS" title="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
 </div>
 <br>
-<div>
+<div align="center">
   <a href="https://github.com/HenryLimaBR" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=henrylimabr&layout=compact&bg_color=222233&title_color=0ff&text_color=fff&icon_color=c0c&hide_border=true&border_radius=6" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrylimabr&count_private=true&show_icons=true&bg_color=222233&title_color=0ff&text_color=ccc&icon_color=c0c&hide_border=true&border_radius=6" />
 </div>
-<div>
+<div align="center">
   
   ![Snake Animation](https://github.com/HenryLimaBR/HenryLimaBR/blob/output/github-contribution-grid-snake.svg)
   
