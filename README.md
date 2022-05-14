@@ -1,5 +1,5 @@
-## Hi, Welcome ^^👋🏼
-<div style="display: inline-block">
+<h1 align="center">Hi, Welcome ^^👋</h1>
+<div align="center" style="display: inline-block">
   <a href="https://github.com/HenryLimaBR">
   <img align="center" width="32px" height="32px" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" width="32px" height="32px" alt="Typescript" title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
