@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Welcome ^^👋</h1>
-<div align="center" style="display: inline-block">
+<div align="center" style="display: block">
   <a href="https://github.com/HenryLimaBR">
   <img align="center" width="32px" height="32px" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" width="32px" height="32px" alt="Typescript" title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
@@ -25,7 +25,3 @@
     <img alt="github-snake" src="https://github.com/HenryLimaBR/HenryLimaBR/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-```math
-\ce{$\unicode[color:red; pointer-events: none; z-index: -20; position: fixed; top: 0; left: 0; height: 120vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.2; background: url('https://github.com/HenryLimaBR/HenryLimaBR/blob/main/bg.png?raw=true');]{x0000}$}
-```
