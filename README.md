@@ -1,6 +1,6 @@
 <h1 align="center">Hi, Welcome ^^👋</h1>
 <div align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,elysia,tailwind,nextjs,react,react-native,html,css,sass,discordjs,docker,electron,firebase,graphql,md,mongodb,postgres,redis,styledcomponents&perline=8" />
+  <img align="center" src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,elysia,tailwind,nextjs,react,html,css,sass,discordjs,docker,electron,firebase,graphql,md,mongodb,postgres,redis,styledcomponents&perline=8" />
 </div>
 <br>
 <div align="center">
