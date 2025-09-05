@@ -1,16 +1,6 @@
 <h1 align="center">Hi, Welcome ^^👋</h1>
-<div align="center" style="display: block">
-  <a href="https://github.com/HenryLimaBR">
-  <img align="center" width="32px" height="32px" alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" width="32px" height="32px" alt="Typescript" title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" width="32px" height="32px" alt="NodeJS" title="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" width="32px" height="32px" alt="ExpressJS" title="ExpressJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
-  <img align="center" width="32px" height="32px" alt="NextJS" title="NextJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" />
-  <img align="center" width="32px" height="32px" alt="ReactJS" title="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" width="32px" height="32px" alt="TailwindCSS" title="TailwindCSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" width="32px" height="32px" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />
-  <img align="center" width="32px" height="32px" alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" />
-  <img align="center" width="32px" height="32px" alt="SASS" title="SASS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+<div align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,elysia,tailwind,nextjs,react,react-native,html,css,sass,discordjs,docker,electron,firebase,graphql,md,mongodb,postgres,redis,styledcomponents&perline=8" />
 </div>
 <br>
 <div align="center">
