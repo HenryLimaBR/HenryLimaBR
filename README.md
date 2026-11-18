@@ -1,8 +1,8 @@
 <h1 align="center">Olá, Tudo bem?</h1>
-<p align="center">É, eu sei! Não tem muita coisa interessante aqui T-T... Estou escrevendo algo legal ^^ <strong>juro</strong>!</p>
-<p align="center">Bom, muitos repositórios que eu estou trabalhando no momento são privados :O</p>
+<p align="center">É, eu sei! Não tem muita coisa interessante aqui T-T... Estou escrevendo algo legal ^^ <strong>prometo</strong>!</p>
+<p align="center">Bom, muitos repositórios que eu estou trabalhando no momento são privados :O (Capitalismo </p>
 <div align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,elysia,tailwind,nextjs,react,html,css,sass,discordjs,docker,electron,firebase,graphql,md,mongodb,postgres,redis,styledcomponents,elysia&perline=8" />
+  <img align="center" src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,express,elysia,tailwind,nextjs,react,html,css,sass,discordjs,docker,electron,firebase,graphql,md,mongodb,postgres,redis,styledcomponents,elysia,rust,gpui&perline=8" />
 </div>
 <br>
 <!-- <div align="center">
